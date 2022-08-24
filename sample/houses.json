@@ -1,0 +1,15 @@
+[{
+    "name": "Gryffindor",
+    "founder": "Godric Gryffindor",
+    "animal": "Lion",
+    "element": "Fire",
+    "traits": [
+        "Courage",
+        "Bravery",
+        "Determination",
+        "Daring",
+        "Nerve",
+        "Chivalry"
+    ],
+    "common_room": "Gryffindor Tower"
+}]

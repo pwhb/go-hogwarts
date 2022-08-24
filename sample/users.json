@@ -1,0 +1,42 @@
+[
+    {
+        "first_name": "Albus",
+        "last_name": "Dumbledore",
+        "blood_status": "Half-blood",
+        "house": "Gryffindor",
+        "species": "Human",
+        "occupation": "Headmaster of Hogwarts"
+    },
+    {
+        "first_name": "Minerva",
+        "last_name": "McGonagall", 
+        "blood_status": "Half-blood",
+        "house": "Gryffindor",
+        "species": "Human",
+        "occupation": "Headmistress of Hogwarts"
+    },
+    {
+        "first_name": "Severus",
+        "last_name": "Snape",
+        "blood_status": "Half-blood",
+        "house": "Slytherin",
+        "species": "Human",
+        "occupation": "Headmaster of Hogwarts"
+    },
+    {
+        "first_name": "Albus",
+        "last_name": "Dumbledore",
+        "blood_status": "Half-blood",
+        "house": "Gryffindor",
+        "species": "Human",
+        "occupation": "Headmaster of Hogwarts"
+    },
+    {
+        "first_name": "Albus",
+        "last_name": "Dumbledore",
+        "blood_status": "Half-blood",
+        "house": "Gryffindor",
+        "species": "Human",
+        "occupation": "Headmaster of Hogwarts"
+    }
+]
